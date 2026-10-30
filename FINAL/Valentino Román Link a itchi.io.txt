@@ -1,7 +1,0 @@
-https://escueladavinci.itch.io/la-busqueda-de-dientes
-Cabe destacar que en el juego hay un tutorial que dice
-que con la X podes empujar a los ratones, pero por temas
-de que me exedía de eventos, lo tuve que eliminar ya que
-era la mecánica menos impactante. Pero sigue diciendo adentro
-del juego que si pulsas x podes empujar los ratones porque
-no me dió tiempo a editarlo antes de la hora, perdon. Saluditos!
